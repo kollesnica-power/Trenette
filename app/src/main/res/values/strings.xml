@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Trenette</string>
+    <string name="images_url">http://truvorskameikin.com/</string>
+    <string name="images_loaded">Images loaded</string>
+    <string name="load_failed">Images load failed</string>
+</resources>
